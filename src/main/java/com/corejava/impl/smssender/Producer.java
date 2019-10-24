@@ -17,11 +17,12 @@ public class Producer implements Runnable {
 	public void run() {
 		try {
 			while(true) {
-				//queue.put(smsGenerator());
-				Thread.sleep(100);
+				//Thread.sleep(1000);
+				queue.put(smsGenerator());
+				System.out.println("Produced..");
 			}
 		} catch (Exception e) {
-			// TODO: handle exception
+			e.printStackTrace();
 		}
 	}
 
