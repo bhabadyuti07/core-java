@@ -1,7 +1,5 @@
 package com.corejava.map;
 
-import static org.junit.Assert.assertNull;
-
 import java.util.HashMap;
 import java.util.Map;
 
