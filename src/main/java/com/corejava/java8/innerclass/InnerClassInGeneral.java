@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.corejava.java8features.innerclass;
+package com.corejava.java8.innerclass;
 
 /**
  * @author Bhabadyuti Bal

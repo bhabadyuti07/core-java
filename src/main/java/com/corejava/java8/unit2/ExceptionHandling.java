@@ -1,4 +1,4 @@
-package com.corejava.java8features.unit2;
+package com.corejava.java8.unit2;
 
 import java.util.function.BiConsumer;
 

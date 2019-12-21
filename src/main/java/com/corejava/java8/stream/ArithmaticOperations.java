@@ -1,4 +1,4 @@
-package com.corejava.java8features.stream;
+package com.corejava.java8.stream;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

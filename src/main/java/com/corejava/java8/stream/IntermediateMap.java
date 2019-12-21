@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.corejava.java8features.stream;
+package com.corejava.java8.stream;
 
 import java.io.PrintWriter;
 import java.util.Arrays;

@@ -1,7 +1,5 @@
 package com.corejava.ds.linkedlsit;
 
-import org.omg.CORBA.Current;
-
 public class DoublyLinkedList {
 
 	private static Node head;

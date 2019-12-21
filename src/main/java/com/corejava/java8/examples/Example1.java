@@ -1,4 +1,4 @@
-package com.corejava.java8features.examples;
+package com.corejava.java8.examples;
 
 import java.util.Arrays;
 import java.util.List;

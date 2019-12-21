@@ -1,4 +1,4 @@
-package com.corejava.java8features.lamdas;
+package com.corejava.java8.lamdas;
 
 /*
  * interface is required to make the application DE-COUPLED

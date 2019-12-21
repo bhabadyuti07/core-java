@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.corejava.java8features.mr;
+package com.corejava.java8.mr;
 
 /**
  * @author Bhabadyuti Bal

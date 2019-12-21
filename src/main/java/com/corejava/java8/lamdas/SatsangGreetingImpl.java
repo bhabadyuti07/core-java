@@ -1,4 +1,4 @@
-package com.corejava.java8features.lamdas;
+package com.corejava.java8.lamdas;
 
 /*
  * Polymerphism

@@ -1,9 +1,9 @@
 /**
  * 
  */
-package com.corejava.java8features.nestedclass;
+package com.corejava.java8.nestedclass;
 
-import com.corejava.java8features.nestedclass.Outer.StaticNestedClass;
+import com.corejava.java8.nestedclass.Outer.StaticNestedClass;
 
 /**
  * @author Bhabadyuti Bal

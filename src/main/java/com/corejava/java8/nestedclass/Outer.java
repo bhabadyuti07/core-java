@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.corejava.java8features.nestedclass;
+package com.corejava.java8.nestedclass;
 
 /**
  * @author Bhabadyuti Bal
