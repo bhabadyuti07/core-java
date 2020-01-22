@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.corejava.dp.strategy;
+package com.corejava.dp.behavioral.strategy;
 
 /**
  * @author Bhabadyuti Bal

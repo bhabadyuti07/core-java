@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.corejava.dp.singleton;
+package com.corejava.dp.creational.singleton;
 
 /**
  * @author Bhabadyuti Bal
