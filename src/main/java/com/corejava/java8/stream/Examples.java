@@ -83,8 +83,18 @@ public class Examples {
 		return map;
 	}
 
+	private static void checkStreamWithoutTerminalFunction() {
+		Stream<String> inVendors = Arrays.asList("Flipkart - IN", "Amazon - US",
+				"Grooferes - IN", "Bigbasket - IN")
+				.stream().filter(s -> s.contains("IN"));
+		inVendors.forEach(System.out::print);
+	}
+
 	public static void main(String[] args) {
 		//checkStreamOnListFeature();
-		checkStreamOnMapFeature();
+		//checkStreamOnMapFeature();
+		checkStreamWithoutTerminalFunction();
 	}
+
+
 }
