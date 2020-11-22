@@ -74,8 +74,8 @@ public class TranscribeStreamingDemoApp {
     private static final Region REGION = Region.US_EAST_1;
     private static Subscription currentSubscription;
     
-    private static String awsAccessKeyId="AKIAQ5SP7TITHYOOAEP5";
-	private static String awsSecretKey="mmbHeUagwruy4MBQqrhf8ErggYIkSnPv3kS0UC0s";
+    private static String awsAccessKeyId="your access key";
+	private static String awsSecretKey="Your secret key";
 
     private static TranscribeStreamingAsyncClient client;
 
