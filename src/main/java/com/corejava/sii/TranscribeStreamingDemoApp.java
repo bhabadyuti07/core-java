@@ -75,7 +75,7 @@ public class TranscribeStreamingDemoApp {
     private static Subscription currentSubscription;
     
     private static String awsAccessKeyId="your access key";
-	private static String awsSecretKey="Your secret key";
+	private static String awsSecretKey="Your secret key ";
 
     private static TranscribeStreamingAsyncClient client;
 
