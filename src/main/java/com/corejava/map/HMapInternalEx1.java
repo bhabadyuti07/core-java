@@ -3,12 +3,10 @@ package com.corejava.map;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.junit.Test;
-
 public class HMapInternalEx1 {
 	
 	
-	@Test
+	//@Test
 	public void whenHashCodeIsCalledOnGet_thenCorrect() {
 	    MyKey key = new MyKey(1);
 	    System.out.println("dfsdfas");
