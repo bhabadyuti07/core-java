@@ -1,6 +1,6 @@
 package com.corejava.others;
 
-public abstract class AbstractEx1 {
+public  class AbstractEx1 {
 	
 	private static boolean isUpdate = false;
 	
@@ -12,7 +12,17 @@ public abstract class AbstractEx1 {
 		return isUpdate = true;
 	}
 	public static void main(String[] args) {
-		System.out.println(display());
+
+		int j=-1, x=4;
+		switch (x) {
+			case 0:
+				j=1;
+			case 2:
+				j=2;
+			default:
+				j=0;
+		}
+		System.out.println(j);
 	}
 
 }

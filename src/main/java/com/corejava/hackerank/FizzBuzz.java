@@ -22,7 +22,6 @@ public class FizzBuzz {
                     String num = String.valueOf(S.charAt(i-1)) + String.valueOf(S.charAt(i));
                     set.add(Integer.valueOf(num));
             }
-
         }
         return set.last();
     }
